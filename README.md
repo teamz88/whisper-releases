@@ -9,7 +9,7 @@ This repository only hosts the release files. The source code is private. Instal
 | Computer | Download |
 |---|---|
 | Windows 10/11 (64-bit) | [Latest release](../../releases/latest): `Whisper-Setup-<version>.exe` |
-| Mac with Apple Silicon (M1–M4) | [Whisper 0.1.6](../../releases/tag/v0.1.6): `Whisper-0.1.6-arm64.dmg` |
+| Mac with Apple Silicon (M1–M4) | [Whisper 0.2.0 for macOS](../../releases/tag/v0.2.0): `Whisper-0.2.0-arm64.dmg` |
 
 The Mac build is released separately and can be a version behind Windows. Use the Mac link above, not the latest release.
 
